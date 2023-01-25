@@ -1,0 +1,97 @@
+
+
+body {
+    background-size:200px;
+    background-color:white;
+    margin:0px;
+   
+}
+
+table{
+   
+    width:80%;
+    line-height:0px;
+    margin:auto;
+    background-color: rgb(248, 247, 247);
+   
+}
+table h4{
+    margin-left:60px;
+}
+.signIn{
+    height:25px;
+float:right;
+margin-right:60px;
+background-color: rgb(62, 62, 238);
+    border:none;
+    color:white;
+}
+.corps{
+    background-image: url("pexels-photo-1001682.jpeg");
+    background-size: cover;
+    background-repeat:no-repeat;
+
+    border: solid gainsboro 0.2px;
+    width:79.5%;
+    margin:0px auto;
+    height:70%;
+}
+.enveloppe{
+    
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:100px;
+    margin-top:100px;
+    display: flex;
+    flex-direction:column;
+    color:white;
+    
+}
+.enveloppe-champ{
+    
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.champ{
+    height:25px;
+    width:300px;
+    border:none
+}
+.bouton{
+    margin-right: 0px;
+    width: 100px;
+    height:30px;
+    background-color: rgb(62, 62, 238);
+    border:none;
+    color:white;
+}
+footer{
+    display: flex;
+    flex-direction:row;
+    background-color: rgb(248, 247, 247);
+    width:79.5%;
+    margin: auto;
+    height: 200px;
+}
+.pied p{
+width:70px;
+
+}
+.fa{
+    font-size: 40px;
+    color:rgb(120, 120, 212);
+    font-style: initial;
+}
+.pied{
+    text-align: center;
+    font-size: 15px;
+    box-sizing:border-box;
+    width:30%;
+    height: 100%;
+    margin-left:20px;
+    margin-top:40px;
+    
+    
+}
